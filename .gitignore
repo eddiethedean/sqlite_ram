@@ -1,0 +1,11 @@
+notebooks/
+
+sqlite_ram.egg-info/
+sqlite_ram/__pycache__/
+dist/
+build/
+.vscode/
+.ipynb_checkpoints/
+__pycache__/
+tests/__pycache__/
+.DS_Store
